@@ -2,6 +2,8 @@ Spinlab High voltage conditioning analysis code for the Ra EDM project
 9/10/2020
 Author: Roy Ready (roy.a.ready@gmail.com)
 
+DOI: https://zenodo.org/badge/latestdoi/294766922
+
 This analysis code calculates discharge rates and related quantities of electrodes being charged with a periodic bipolar power supply. 
 It has been tested to process the high voltage conditioning data conducted at Spinlab (MSU, East Lansing) from 2017--2020.
 

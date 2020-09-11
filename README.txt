@@ -1,6 +1,6 @@
 Spinlab High voltage conditioning analysis code for the Ra EDM project
 9/10/2020
-Author: Roy Ready (roy.a.ready@gmail.com)
+Author: Roy A. Ready (roy.a.ready@gmail.com)
 
 DOI: https://zenodo.org/badge/latestdoi/294766922
 

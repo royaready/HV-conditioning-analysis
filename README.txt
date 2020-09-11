@@ -35,7 +35,7 @@ To generate a cumulative timeline plot:
 They are <timestamp>-discharge-rate-neg.txt and <timestamp>-discharge-rate-pos.txt
 3) change the variable "analysis_folder_name_parent" in cumulative_discharge_rate_plotter.m to the name of the folder you created.
 4) change the variable "electrodes" in cumulative_discharge_rate_plotter.m to the name of the electrodes you are analyzing.
-5) run cumulative_dsicharge_rate_plotter.m
+5) run cumulative_discharge_rate_plotter.m
 
 To generate a steady state leakage current vs. voltage plot:
 6) copy <timestamp>-steady-state-v-voltage.txt from the new analysis folder created by cumulative_rate_discharge_plotter.m to a new folder. If you want to display multiple steady-state data series, run 1)->5) for each electrode pair and copy the steady state data files to the same directory.
